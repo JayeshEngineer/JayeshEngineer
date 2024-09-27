@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @JayeshEngineer
+- 👀 I’m interested in electronics, telecommunication, and programming (especially C and algorithms).
+- 🌱 I’m currently learning C programming, algorithms, and data structures.
+- 💞️ I’m looking to collaborate on embedded systems, C-based projects, and algorithm challenges.
+- 📫 How to reach me: jayeshwagh889@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy making traditional sweets like shankarpali!
